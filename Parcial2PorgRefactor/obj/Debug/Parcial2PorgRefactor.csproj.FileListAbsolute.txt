@@ -1,0 +1,12 @@
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\bin\Debug\Parcial2PorgRefactor.exe.config
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\bin\Debug\Parcial2PorgRefactor.exe
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\bin\Debug\Parcial2PorgRefactor.pdb
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.agregarNuevaLocalidad.resources
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.Form1.resources
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.exe
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.pdb
+C:\Users\Nahuel\source\repos\Parcial2PorgRefactor\Parcial2PorgRefactor\obj\Debug\Parcial2PorgRefactor.formularioModificarLocalidad.resources
